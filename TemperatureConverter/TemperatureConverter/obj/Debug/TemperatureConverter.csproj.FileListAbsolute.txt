@@ -1,0 +1,10 @@
+C:\Users\Pamudu\Desktop\SOWA C#\TemperatureConverter\TemperatureConverter\bin\Debug\TemperatureConverter.exe.config
+C:\Users\Pamudu\Desktop\SOWA C#\TemperatureConverter\TemperatureConverter\bin\Debug\TemperatureConverter.exe
+C:\Users\Pamudu\Desktop\SOWA C#\TemperatureConverter\TemperatureConverter\bin\Debug\TemperatureConverter.pdb
+C:\Users\Pamudu\Desktop\SOWA C#\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.csproj.AssemblyReference.cache
+C:\Users\Pamudu\Desktop\SOWA C#\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.Form1.resources
+C:\Users\Pamudu\Desktop\SOWA C#\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.Properties.Resources.resources
+C:\Users\Pamudu\Desktop\SOWA C#\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.csproj.GenerateResource.cache
+C:\Users\Pamudu\Desktop\SOWA C#\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.csproj.CoreCompileInputs.cache
+C:\Users\Pamudu\Desktop\SOWA C#\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.exe
+C:\Users\Pamudu\Desktop\SOWA C#\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.pdb
